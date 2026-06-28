@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "池毛毛/Maomao Chi"
+title                    : "Maomao Chi"
 title_separator          : "-"
 name                     : &name "Maomao Chi"
 description              : &description "Maomao Chi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,18 +24,18 @@ repository               : "chimaomao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "池毛毛/Maomao Chi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor, School of Economics and Management, China University of Geosciences (Wuhan)"
+  location         : "Wuhan,  P.R. China"
+  employer         : "China University of Geosciences (Wuhan)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chimaomao@vip.163.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
