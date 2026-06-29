@@ -23,11 +23,11 @@ repository               : "chimaomao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "profile.png"
   name             : "池毛毛/Maomao Chi"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Management Information Systems"
-  location         : "Wuhan,  P.R. China"
+  location         : "Wuhan, P.R. China"
   employer         : "China University of Geosciences (Wuhan)"
   uri              : # URL
   email            : "chimaomao@vip.163.com" 
