@@ -4,46 +4,87 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+<div class="talks-manual">
 
-{% assign talks_list = site.talks | default: empty | sort: "date" | reverse %}
-
-{% if talks_list.size > 0 %}
-
-  {% for post in talks_list %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
-
-{% else %}
-
-  <div class="talks-empty">
-    <div class="talks-empty-title">Information updating</div>
-    <div class="talks-empty-sub">Talks and presentations will be added soon.</div>
+  <div class="talk-item">
+    <div class="talk-date">2025.11.08</div>
+    <div class="talk-title">
+      数智时代的中国管理学方法自觉：通向自主知识体系的路径
+    </div>
+    <div class="talk-meta">
+      首届“方法论创新与自主知识体系构建”学术研讨会暨中国管理现代化研究会管理研究方法专业委员会（2025）年会
+    </div>
   </div>
 
-{% endif %}
+  <div class="talk-item">
+    <div class="talk-date">2025.09.10</div>
+    <div class="talk-title">
+      以裂变激活存量，赋能转型升级——推动龙头企业扩张裂变，构建区域高质量发展生态
+    </div>
+    <div class="talk-meta">
+      荆门市政协三季度“政协讲堂”
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <div class="talk-date">2025.08.28</div>
+    <div class="talk-title">
+      混合方法研究的原理与设计
+    </div>
+    <div class="talk-meta">
+      第十届定性比较分析（QCA）方法工作坊
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <div class="talk-date">2024.08.11</div>
+    <div class="talk-title">
+      QCA方法在管理学研究的应用现状与科研写作实践
+    </div>
+    <div class="talk-meta">
+      第九届定性比较分析（QCA）方法工作坊
+    </div>
+  </div>
+
+</div>
 
 <style>
-.talks-empty{
-  max-width: 820px;
-  margin: 60px auto;
-  padding: 26px 22px;
-  text-align: center;
-  border: 1px solid #e6e6e6;
-  border-radius: 12px;
-  background: #fafafa;
+.talks-manual{
+  max-width: 900px;
+  margin: 30px auto;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.talks-empty-title{
-  font-size: 18px;
-  font-weight: 600;
-  color: #444;
-  margin-bottom: 8px;
+.talk-item{
+  padding: 16px 18px;
+  margin-bottom: 14px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  background: #fff;
+  transition: all 0.2s ease;
 }
 
-.talks-empty-sub{
-  font-size: 14px;
+.talk-item:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.talk-date{
+  font-size: 13px;
   color: #888;
+  margin-bottom: 6px;
+}
+
+.talk-title{
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+  line-height: 1.5;
+}
+
+.talk-meta{
+  font-size: 13px;
+  color: #666;
+  margin-top: 6px;
 }
 </style>
-
