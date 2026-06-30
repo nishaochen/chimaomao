@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
+{% assign talks_list = site.talks | sort: "date" | reverse %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% if talks_list and talks_list.size > 0 %}
+
+  {% for post in talks_list %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+
+{% else %}
+
+  <div style="
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    color: #888;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px dashed #ddd;
+    border-radius: 10px;
+    background: #fafafa;
+  ">
+    Talks information is currently being updated.
+  </div>
+
