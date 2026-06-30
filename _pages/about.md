@@ -64,7 +64,7 @@ Maomao Chi is a Professor and Doctoral Supervisor at the School of Economics and
 
 <div class="justify section">
 
-通讯地址：湖北省武汉市东湖开发区锦程街68号，中国地质大学（武汉）科七楼经济管理学院506办公室  
+通讯地址：湖北省武汉市东湖开发区锦程街68号，科七楼经济管理学院506办公室  
 
 电子邮件：chimaomaoATvip.163.com 或 chimaomaoATaliyun.com  
 
