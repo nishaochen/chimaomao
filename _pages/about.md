@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="justify section">
 
-Maomao Chi is a Professor and Doctoral Supervisor at the School of Economics and Management, China University of Geosciences (Wuhan). His main research interests include digital intelligent business and innovation, digital platform governance, and artificial intelligence in management and innovation.
+Maomao Chi is a Professor and Doctoral Supervisor at the School of Economics and Management, China University of Geosciences (Wuhan). His main research interests include digital intelligent business and innovation, digital platform governance, and artificial intelligence in management and innovation. <br>
 
 池毛毛，中国地质大学（武汉）经济管理学院教授、博士生导师。主要研究方向为数智商务与创新、数字平台治理及人工智能管理与创新。主持和参与国家自然科学基金、国家社科基金和教育部社会科学研究基金等10余项。在国内外商科主流期刊发表SCI/SCIE、CSSCI论文50余篇，包括Technovation, Journal of Business Research, Decision Support Systems, International Journal of Hospitality Management, International Journal of Information Management, Information Processing & Management, Internet Research,《管理科学学报》《南开管理评论》《中国管理科学》《管理工程学报》《科学学研究》《管理科学》《经济管理》《管理评论》《旅游学刊》《管理学报》《研究与发展管理》《情报学报》《系统管理学报》等。其中，10余篇论文单篇被引次数超过100次，1篇论文单篇被引超过1000次；10余篇论文入选中国知网高被引论文、人大复印资料全文转载或ESI全球TOP0.1%热点论文。出版专著3本，教材1本，译著1本。系列论文或专著获得第十二届、第十四届湖北省社会科学优秀成果奖二等奖、三等奖，武汉市第十八次、第十七次社会科学优秀成果奖二、三等奖。入选“2024中国知网高被引学者TOP 1%”（工商管理学）。
 
