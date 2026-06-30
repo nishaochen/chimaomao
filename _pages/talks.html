@@ -5,11 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% assign talks_list = site.talks | default: empty | sort: "date" | reverse %}
 
-
-{% assign talks_list = site.talks | sort: "date" | reverse %}
-
-{% if talks_list and talks_list.size > 0 %}
+{% if talks_list.size > 0 %}
 
   {% for post in talks_list %}
     {% include archive-single-talk.html %}
@@ -17,17 +15,35 @@ author_profile: true
 
 {% else %}
 
-  <div style="
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
-    text-align: center;
-    color: #888;
-    font-family: Arial, Helvetica, sans-serif;
-    border: 1px dashed #ddd;
-    border-radius: 10px;
-    background: #fafafa;
-  ">
-    Talks information is currently being updated.
+  <div class="talks-empty">
+    <div class="talks-empty-title">Information updating</div>
+    <div class="talks-empty-sub">Talks and presentations will be added soon.</div>
   </div>
+
+{% endif %}
+
+<style>
+.talks-empty{
+  max-width: 820px;
+  margin: 60px auto;
+  padding: 26px 22px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  background: #fafafa;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.talks-empty-title{
+  font-size: 18px;
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 8px;
+}
+
+.talks-empty-sub{
+  font-size: 14px;
+  color: #888;
+}
+</style>
 
