@@ -23,7 +23,7 @@ repository               : "chimaomao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile2.jpg"
+  avatar           : "profile2.jpg"
   name             : "池毛毛/Maomao Chi"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Management Information Systems"
