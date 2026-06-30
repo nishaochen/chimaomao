@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Management Information Systems
+* M.S. in Management / Information Systems
+* B.S. in Management / Business Administration
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Academic Positions
+======
+* Professor, School of Economics and Management  
+  China University of Geosciences (Wuhan)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. Supervisor
 
-Publications
+* Associate Dean (Graduate Affairs)
+
+
+Research Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Digital Business and Innovation
+* Platform Governance and Digital Ecosystems
+* Artificial Intelligence in Management
+* Digital Transformation
+* Consumer Behavior in Digital Platforms
+
+
+Work Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Academic leadership and program development in business administration education
+* Supervision of graduate and doctoral students in digital management and innovation topics
+* Participation in national research projects and academic evaluation activities
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Organizational Behavior (MBA)
+* Management Research Methods
+* Digital Marketing / New Media Marketing
+* Graduate seminars on digital platforms and AI in business
+
+
+Research & Publications
 ======
-* Currently signed in to 43 different slack teams
+* Published papers in leading international and domestic journals in management and information systems
+* Research focuses on digital transformation, platform ecosystems, and AI-enabled business innovation
+* Ongoing projects supported by national and provincial research funding
+
+
+Grants & Projects
+======
+* Principal investigator and co-investigator in national and provincial research projects
+* Research funding in digital economy, platform governance, and AI-enabled management
+
+
+Service and Leadership
+======
+* Administrative roles in academic unit management and graduate education
+* Reviewer for academic journals and conferences in information systems and management
+* Academic conference organization and program committee service
