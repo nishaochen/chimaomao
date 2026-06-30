@@ -11,60 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Management Information Systems
-* M.S. in Management / Information Systems
-* B.S. in Management / Business Administration
-
+* Ph.D. in Management Science and Engineering, China University of Geosciences (Wuhan), 2014  
+* M.S. in Management Science and Engineering, China University of Geosciences (Wuhan)  
+* B.S. in Business Administration (English Program), China University of Geosciences (Wuhan), 2008  
+* Visiting Scholar, Iowa State University (USA), funded by China Scholarship Council (CSC), 2013  
 
 Academic Positions
 ======
-* Professor, School of Economics and Management  
-  China University of Geosciences (Wuhan)
-
-* Ph.D. Supervisor
-
-* Associate Dean (Graduate Affairs)
+* Professor, School of Economics and Management, China University of Geosciences (Wuhan)  
+* Ph.D. Supervisor  
+* Director, Department of Business Administration  
+* Associate Dean (Graduate Affairs)  
 
 
 Research Interests
 ======
 * Digital Business and Innovation
-* Platform Governance and Digital Ecosystems
+* Platform Ecosystems and Sharing Economy
 * Artificial Intelligence in Management
-* Digital Transformation
-* Consumer Behavior in Digital Platforms
+* Digital Transformation and Strategy
+* IT Governance and Organizational Value Creation
 
-
-Work Experience
+Research Output & Recognition
 ======
-* Academic leadership and program development in business administration education
-* Supervision of graduate and doctoral students in digital management and innovation topics
-* Participation in national research projects and academic evaluation activities
-
+* 50+ SSCI/SCI/CSSCI journal publications in leading journals in management and information systems  
+* Multiple papers published in *Journal of Business Research*, *Technovation*, *International Journal of Information Management*, *Decision Support Systems*, etc.  
+* CNKI “Highly Cited Scholar (Top 1%)” recognition in management discipline  
+* Multiple provincial and municipal social science awards (Hubei Province & Wuhan City Outstanding Achievement Awards)  
+* Publications include highly cited and ESI hotspot papers  
 
 Teaching
 ======
+* New Media Marketing / Digital Marketing
 * Organizational Behavior (MBA)
 * Management Research Methods
-* Digital Marketing / New Media Marketing
-* Graduate seminars on digital platforms and AI in business
+* Management Theory and Frontier Topics (Master/PhD level)
+* Business Administration core curriculum courses
 
-
-Research & Publications
+Research Projects
 ======
-* Published papers in leading international and domestic journals in management and information systems
-* Research focuses on digital transformation, platform ecosystems, and AI-enabled business innovation
-* Ongoing projects supported by national and provincial research funding
+* Principal Investigator / Co-PI of National Natural Science Foundation of China (NSFC) projects  
+* Ministry of Education Humanities and Social Sciences Project  
+* Provincial and municipal social science funding projects  
+* Research focus on digital economy, platform governance, and AI-enabled management systems  
 
-
-Grants & Projects
+Academic Service
 ======
-* Principal investigator and co-investigator in national and provincial research projects
-* Research funding in digital economy, platform governance, and AI-enabled management
-
+* Editorial and reviewer roles for international journals in IS/Management fields  
+* Program committee member and organizer of international conferences (e.g., WHICEB)  
+* Academic advisor for undergraduate innovation programs and national competitions  
 
 Service and Leadership
 ======
-* Administrative roles in academic unit management and graduate education
-* Reviewer for academic journals and conferences in information systems and management
-* Academic conference organization and program committee service
+* Department-level academic administration (Business Administration)  
+* Graduate and doctoral student supervision and training system development  
+* Curriculum reform in digital business and AI-driven management education  
