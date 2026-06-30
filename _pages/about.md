@@ -54,7 +54,7 @@ Maomao Chi is a Professor and Doctoral Supervisor at the School of Economics and
 
 本科生若加入团队，将视同研究生一样培养。
 
-团队已有本科生参与发表多篇学术论文（例如 *International Journal of Hospitality Management*（SSCI一区，ABS3）、《管理学报》（CSSCI、FMST1）、《研究发展管理》（CSSCI、FMST2）、《旅游学刊》（CSSCI、FMST2）等国内外主流学术期刊），多次获得国家级大学生创新训练计划项目立项、正大杯市场调查等国家级竞赛奖项，并成功保研至复旦大学、南京大学、中科院大学以及华南理工等985、211高校等。
+团队已有本科生参与发表多篇学术论文（例如 International Journal of Hospitality Management（SSCI一区，ABS3）、《管理学报》（CSSCI、FMST1）、《研究发展管理》（CSSCI、FMST2）、《旅游学刊》（CSSCI、FMST2）等国内外主流学术期刊），多次获得国家级大学生创新训练计划项目立项、正大杯市场调查等国家级竞赛奖项，并成功保研至复旦大学、南京大学、中科院大学以及华南理工等985、211高校等。
 
 </div>
 
