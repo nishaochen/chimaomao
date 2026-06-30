@@ -1,14 +1,152 @@
----
-layout: archive
-title: "Students"
-permalink: /students/
-author_profile: true
----
+<h2>Students</h2>
 
-{% include base_path %}
+<!-- ===================== PhD CARD ===================== -->
+<div class="student-card">
+
+  <div class="student-section-title">PhD Students（博士生）</div>
+
+  <div class="student-subtitle">Current PhD Students（在读博士）</div>
+
+  <div class="student-grid">
+
+    <div class="student-item">
+      <div class="student-name">王俊晶</div>
+      <div class="student-meta">PhD Candidate</div>
+    </div>
+
+    <div class="student-item">
+      <div class="student-name">李文静</div>
+      <div class="student-meta">PhD Candidate</div>
+    </div>
+
+  </div>
+
+  <div class="student-subtitle">PhD Graduates（已毕业博士）</div>
+  <div class="student-grid">
+    <div class="student-empty">—</div>
+  </div>
+
+</div>
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- ===================== MASTER ===================== -->
+<div class="simple-section">
 
+  <h3>Master Students（硕士生）</h3>
+
+  <div class="student-line">
+    <strong>MSc Students（学术硕士）：</strong> 何倩；冯婷婷
+  </div>
+
+  <div class="student-line">
+    <strong>MBA Students（MBA）：</strong> —
+  </div>
+
+  <div class="student-line">
+    <strong>Master Graduates（已毕业硕士）：</strong> —
+  </div>
+
+</div>
+
+
+<!-- ===================== UNDERGRAD ===================== -->
+<div class="simple-section">
+
+  <h3>Undergraduate Students（本科生）</h3>
+
+  <div class="student-line">
+    <strong>Research Assistants（科研助理，含“李四光计划”）：</strong> 左楚涵
+  </div>
+
+  <div class="student-line alumni">
+    <strong>Undergraduate Alumni（已毕业本科生）：</strong> 谢馨仪
+  </div>
+
+</div>
+
+
+<style>
+
+/* ========== GLOBAL ========== */
+.student-card,
+.simple-section{
+  max-width: 900px;
+  margin: 0 auto 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+/* ========== PHD CARD ========== */
+.student-card{
+  padding: 18px 18px 10px;
+  border: 1px solid #ececec;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.student-section-title{
+  font-weight: 700;
+  font-size: 17px;
+  margin-bottom: 14px;
+}
+
+.student-subtitle{
+  font-weight: 600;
+  font-size: 14px;
+  margin: 16px 0 10px;
+  color: #444;
+}
+
+.student-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.student-item{
+  padding: 14px 16px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  background: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.student-item:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.student-name{
+  font-weight: 600;
+}
+
+.student-meta{
+  font-size: 13px;
+  color: #666;
+  margin-top: 4px;
+}
+
+.student-empty{
+  color: #aaa;
+  font-size: 13px;
+}
+
+/* ========== SIMPLE LIST ========== */
+.simple-section h3{
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.student-line{
+  margin: 6px 0;
+  line-height: 1.7;
+  font-size: 14px;
+}
+
+/* ========== ALUMNI STYLE ========== */
+.alumni{
+  color: #9a9a9a;
+  font-style: italic;
+}
+
+</style>
