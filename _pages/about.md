@@ -130,10 +130,7 @@ li {
 
 <div class="justify section">
 
-<strong>通讯地址：</strong>湖北省武汉市东湖开发区锦程街68号 中国地质大学（武汉）经济管理学院506办公室
-
-<br><br>
-
+<strong>通讯地址：</strong>湖北省武汉市东湖开发区锦程街68号 中国地质大学（武汉）经济管理学院506办公室 <br>
 <strong>电子邮件：</strong>
 chimaomaoATvip.163.com；chimaomaoATaliyun.com
 
