@@ -55,7 +55,7 @@ li {
 
 <div class="justify section">
 
-<strong>Maomao Chi</strong> is a Professor and Doctoral Supervisor at the School of Economics and Management, China University of Geosciences (Wuhan). His research focuses on <strong>digital intelligent business, digital platform governance, and artificial intelligence-enabled management and innovation</strong>.
+<strong>Maomao Chi</strong> is a Professor and Doctoral Supervisor at the School of Economics and Management, China University of Geosciences (Wuhan). His research focuses on <strong>digital intelligent business, digital platform governance, and artificial intelligence-enabled management and innovation</strong>. <br>
 
 池毛毛，中国地质大学（武汉）经济管理学院教授、博士生导师。主要研究方向包括<strong>数智商务与创新、数字平台治理、人工智能管理与创新</strong>。
 
@@ -130,15 +130,11 @@ li {
 
 <div class="justify section">
 
-<strong>通讯地址：</strong>湖北省武汉市东湖开发区锦程街68号  
-<br>
-中国地质大学（武汉）经济管理学院506办公室
+<strong>通讯地址：</strong>湖北省武汉市东湖开发区锦程街68号 中国地质大学（武汉）经济管理学院506办公室
 
 <br><br>
 
 <strong>电子邮件：</strong>
-chimaomaoATvip.163.com  
-<br>
-chimaomaoATaliyun.com
+chimaomaoATvip.163.com；chimaomaoATaliyun.com
 
 </div>
